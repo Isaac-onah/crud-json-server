@@ -5,28 +5,27 @@
   	"users": [
     {
       "name":"John Okafor",
-      "course": "Computer Science",
+      "course": "Computer Science"
     },
     {
        "name":"Emeka Offor" ,
-      "course": "Electrical Engineer",
+      "course": "Electrical Engineer"
     },
     {
        "name":"Ngwu Victor" ,
-      "course": "Social Economics",
+      "course": "Social Economics"
     },
     {
        "name":"Uche Ogor" ,
-      "course": "English",
+      "course": "English"
     },
     {
        "name":"Lydia Nze" ,
-      "course": "Nursing",
+      "course": "Nursing"
     },
     {
-       "id": "6",
        "name":"Hillary" ,
-      "course": "Law",
+      "course": "Law"
     }
   ]
 }
